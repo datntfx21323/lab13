@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/1920x1200_px_lake_Moon_night_sky-837567.jpg);
+  height: 600px;
+  width: 100%;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/1920x1200_px_General-549603.jpg);
+  height: 600px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/nature_landscape_abstract-37431.jpg);
+  height: 600px;
+}
